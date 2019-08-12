@@ -18,6 +18,7 @@ class Input:
         e = [[int(i) for i in input().split()] for i in range(n)]
         #  [[22, 1, 45], [25, 53, 110], [4, 444, 555], [2, 5, 0]]
 
+        n
 
 if __name__ == '__main__':
     input = Input()
